@@ -1,0 +1,12 @@
+{
+  "name": "editor_bookmark",
+  "version": "0.1.0",
+  "description": "text editor bookmark assistant tool",
+  "main": "index.js",
+  "author": "0xdead6eef",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "^4.33.0",
+    "sqlite3": "^3.1.13"
+  }
+}
